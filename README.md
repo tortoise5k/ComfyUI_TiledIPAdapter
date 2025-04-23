@@ -1,3 +1,5 @@
+`git clone --recursive` or `git clone; cd <this repo>; git submodule update --init --recursive`
+
 > [!CAUTION] 
 > ComfyUI_IPAdapter_plus now have supports both tiled masks and unfolded batches of images. This project will not be maintained any more.
 
@@ -20,4 +22,3 @@ To split an image into tiles and merge it again you can use the SimpleTile nodes
 Drag into Comfy to load workflow:
 
 ![Image showing an example workflow](out.png "Example workflow").
-
