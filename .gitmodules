@@ -1,0 +1,3 @@
+[submodule "ComfyUI_IPAdapter_plus"]
+	path = ComfyUI_IPAdapter_plus
+	url = https://github.com/cubiq/ComfyUI_IPAdapter_plus
